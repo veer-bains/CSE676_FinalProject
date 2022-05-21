@@ -1,5 +1,8 @@
 # CSE676_FinalProject
 final project submission for CSE676 Deep Learning
+Project Submission By:
+- Veer Bains (50363319)
+- Kunal Beniwal (50381672)
 
 Instructions to run code:
 - Install requirements.txt

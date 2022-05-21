@@ -1,0 +1,31 @@
+graphviz==0.19
+ipykernel==5.5.3
+ipython @ file:///C:/ci/ipython_1646948643510/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets==7.6.3
+jupyter==1.0.0
+jupyter-client @ file:///opt/conda/conda-bld/jupyter_client_1643638337975/work
+jupyter-console==6.4.0
+jupyter-core @ file:///C:/ci/jupyter_core_1646976462809/work
+jupyter-http-over-ws==0.0.8
+jupyterlab-pygments==0.1.2
+jupyterlab-widgets==1.0.0
+matplotlib==3.4.1
+matplotlib-inline
+netron==5.6.4
+notebook==6.3.0
+numpy==1.19.5
+opencv-python==4.5.4.60
+opencv-python-headless==4.5.4.58
+pandas
+pytorch-lightning
+seaborn==0.11.1
+sklearn==0.0
+torch==1.8.1
+torchaudio==0.8.1
+torchmetrics @ file:///home/conda/feedstock_root/build_artifacts/torchmetrics_1619066352249/work
+torchsummary==1.5.1
+torchvision==0.9.1
+torchviz==0.0.2
+tornado @ file:///C:/ci/tornado_1606942392901/work
+tqdm
